@@ -1,3 +1,5 @@
+include: ["assets/css/custom.css"]
+
 title: Huu Canh Nguyen
 logo: "/assets/img/logo.jpg"
 #description
