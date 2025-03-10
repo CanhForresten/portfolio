@@ -1,5 +1,7 @@
 #  Sofware Student
 
+#### Technical Skills: C++, Python, HTML, CSS, REACT, JAVASCRIPT
+
 ### Education
 Software Engineer, Aarhus University
 
