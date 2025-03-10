@@ -3,8 +3,10 @@
 ### Education
 Software Engineering
 
-
-### Work Experience
-
-
 ### Projects
+React & Tailwind
+- Trending Movies
+
+React & MUI
+- Booking system
+- To-do-liste
