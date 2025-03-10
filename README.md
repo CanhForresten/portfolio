@@ -1,7 +1,7 @@
 #  Sofware Student
 
 ### Education
-Software Engineering, Aarhus University
+Software Engineer, Aarhus University
 
 ### Projects
 React & Tailwind CSS
