@@ -1,10 +1,10 @@
 #  Sofware Student
 
 ### Education
-Software Engineering
+Software Engineering, Aarhus University
 
 ### Projects
-React & Tailwind
+React & Tailwind CSS
 - Trending Movies
 
 React & MUI
