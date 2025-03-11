@@ -23,7 +23,6 @@ Applikationen er bygget med React og Vite, og den bruger The Movie Database (TMD
 - **Frontend:** React, Tailwind CSS
 - **Byggeværktøj:** Vite
 - **API:** The Movie Database (TMDb) API
-- **Linting:** ESLint med React-specifikke regler
 
 **Kildekode:**
 [Kildekode på GitHub](https://github.com/dit-github-canhforresten/trending-movies)
