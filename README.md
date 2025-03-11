@@ -28,10 +28,21 @@ Applikationen er bygget med React og Vite, og den bruger The Movie Database (TMD
 **Kildekode:**
 [Kildekode på GitHub](https://github.com/dit-github-canhforresten/trending-movies)
 
-#### To-do-liste || React & MUI
+#### To-do-liste
+**Beskrivelse:**
+Dette projekt er en simpel To-do liste applikation bygget med React og Material-UI. Applikationen giver brugerne mulighed for at tilføje, fjerne og administrere opgaver. Derudover understøtter applikationen både lys og mørk tilstand.
 
-Udviklet interaktiv to-do-liste webapplikation ved hjælp af React og useState-hook til håndtering af tilstand. 
-Applikationen inkluderer interaktive funktioner som tilføjelse, redigering af tema og sletning af opgaver. 
-Designet er skabt med MUI, som integreres med React for et moderne og brugervenligt interface.
+**Funktioner**
+- **Tilføj opgave:** Brugere kan tilføje nye opgaver til listen.
+- **Fjern opgave:** Brugere kan fjerne opgaver fra listen.
+- **Lys/Mørk tilstand:** Brugere kan skifte mellem lys og mørk tilstand.
+
+**Teknologier**
+- **React:** JavaScript bibliotek til at bygge brugergrænseflader.
+- **Material-UI:** React komponentbibliotek til at bygge stilfulde brugergrænseflader.
+- **Vite:** Byggeværktøj til frontend projekter.
+
+**Kildekode:**
+[Kildekode på GitHub](https://github.com/dit-github-canhforresten/trending-movies)
 
 #### Booking system (Not done yet)
