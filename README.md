@@ -7,7 +7,7 @@
 
 ### Projects
 
-#### Trending Movies
+### Trending Movies
 **Beskrivelse:**
 Trending Movies er en webapplikation bygget ud fra en figma template, der giver brugerne mulighed for at søge og opdage populære film. 
 Applikationen er bygget med React og Vite, og den bruger The Movie Database (TMDb) API til at hente filmdata.
@@ -28,7 +28,7 @@ Applikationen er bygget med React og Vite, og den bruger The Movie Database (TMD
 **Kildekode:**
 [Kildekode på GitHub](https://github.com/dit-github-canhforresten/trending-movies)
 
-#### To-do-liste
+### To-do-liste
 **Beskrivelse:**
 Dette projekt er en simpel To-do liste applikation bygget med React og Material-UI. Applikationen giver brugerne mulighed for at tilføje, fjerne og administrere opgaver. Derudover understøtter applikationen både lys og mørk tilstand.
 
