@@ -39,7 +39,7 @@ Dette projekt er en simpel To-do liste applikation bygget med React og Material-
 
 **Teknologier**
 - **React:** JavaScript bibliotek til at bygge brugergrænseflader.
-- **Material-UI:** React komponentbibliotek til at bygge stilfulde brugergrænseflader.
+- **Material-UI:** React komponentbibliotek til at bygge fine brugergrænseflader.
 - **Vite:** Byggeværktøj til frontend projekter.
 
 **Kildekode:**
