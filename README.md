@@ -9,7 +9,7 @@
 
 #### Trending Movies
 **Beskrivelse:**
-Trending Movies er en webapplikation, der giver brugerne mulighed for at søge og opdage populære film. 
+Trending Movies er en webapplikation bygget ud fra en figma template, der giver brugerne mulighed for at søge og opdage populære film. 
 Applikationen er bygget med React og Vite, og den bruger The Movie Database (TMDb) API til at hente filmdata.
 
 **Funktioner:**
@@ -23,6 +23,7 @@ Applikationen er bygget med React og Vite, og den bruger The Movie Database (TMD
 - **Frontend:** React, Tailwind CSS
 - **Byggeværktøj:** Vite
 - **API:** The Movie Database (TMDb) API
+- **Template:** Figma
 
 **Kildekode:**
 [Kildekode på GitHub](https://github.com/dit-github-canhforresten/trending-movies)
