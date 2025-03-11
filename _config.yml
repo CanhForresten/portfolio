@@ -1,7 +1,7 @@
 include: ["assets/logo.css"]
-
 title: Huu Canh Nguyen
 logo: "/assets/img/logo.jpg"
 #description
 show_downloads: true
+"\n"
 theme: jekyll-theme-minimal
