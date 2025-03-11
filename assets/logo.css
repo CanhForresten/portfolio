@@ -1,5 +1,6 @@
-.site-logo img {
-  border-radius: 50%; /* Gør logoet rundt */
+img[src*="/assets/img/logo.jpg"] {
+  border-radius: 10px; /* Afrundede hjørner */
+  border: 2px solid #000; /* Sort kant */
   width: 150px; /* Juster størrelsen */
   height: auto;
 }
