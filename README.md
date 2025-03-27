@@ -8,20 +8,20 @@
 ### Projects
 
 #### ***Trending Movies***
-**Beskrivelse:**
-Trending Movies er en webapplikation bygget ud fra en figma template, der giver brugerne mulighed for at søge og opdage populære film. 
-Applikationen er bygget med React og Vite, og den bruger The Movie Database (TMDb) API til at hente filmdata.
+**Description:**
+Trending Movies is a web application built from a Figma template that allows users to search for and discover popular movies. The application is built with React and Vite, and it uses The Movie Database (TMDb) API to fetch movie data.
 
-**Funktioner:**
-- **Søgning:** Brugerne kan søge efter film ved hjælp af en søgefelt, der debouncer input for at reducere antallet af API-kald.
-- **Populære Film:** Viser en liste over de mest populære film, når der ikke er nogen søgeforespørgsel.
-- **Film Detaljer:** Hver film vises med titel, vurdering, sprog og udgivelsesår.
-- **Indlæsningsindikator:** En spinner vises, mens data hentes fra API'et.
-- **Fejlhåndtering:** Viser en fejlmeddelelse, hvis der ikke findes nogen film eller hvis der opstår en fejl under datahentning.
 
-**Teknologier:**
+**Features:**
+- **Search:** Users can search for movies using a search field that debounces input to reduce the number of API calls.
+- **Popular Movies:** Displays a list of the most popular movies when there is no search query.
+- **Movie Details**  Each movie is displayed with title, rating, language, and release year.
+- **Loading Indicator:** A spinner is displayed while data is being fetched from the API.
+- **Error Handling:** Displays an error message if no movies are found or if an error occurs during data retrieval.
+
+**Technologies:**
 - **Frontend:** React, Tailwind CSS
-- **Byggeværktøj:** Vite
+- **Build Tool:** Vite
 - **API:** The Movie Database (TMDb) API
 - **Template:** Figma
 
@@ -29,20 +29,20 @@ Applikationen er bygget med React og Vite, og den bruger The Movie Database (TMD
 [Kildekode på GitHub](https://github.com/dit-github-canhforresten/trending-movies)
 
 #### ***To-do-liste***
-**Beskrivelse:**
-Dette projekt er en simpel To-do liste applikation bygget med React og Material-UI. Applikationen giver brugerne mulighed for at tilføje, fjerne og administrere opgaver. Derudover understøtter applikationen både lys og mørk tilstand.
+**Description:**
+This project is a simple To-do list application built with React and Material-UI. The application allows users to add, remove, and manage tasks. Additionally, the application supports both light and dark mode.
 
-**Funktioner**
-- **Tilføj opgave:** Brugere kan tilføje nye opgaver til listen.
-- **Fjern opgave:** Brugere kan fjerne opgaver fra listen.
-- **Lys/Mørk tilstand:** Brugere kan skifte mellem lys og mørk tilstand.
+**Features**
+- **Add Task:** Users can add new tasks to the list.
+- **Removes Task:** Users can remove tasks from the list.
+- **Light/Dark Mode:** Users can switch between light and dark mode.
 
 **Teknologier**
-- **React:** JavaScript bibliotek til at bygge brugergrænseflader.
-- **Material-UI:** React komponentbibliotek til at bygge fine brugergrænseflader.
-- **Vite:** Byggeværktøj til frontend projekter.
+- **React:** JavaScript library for building user interfaces.
+- **Material-UI:** React component library for building stylish user interfaces.
+- **Vite:** tool for frontend projects.
 
-**Kildekode:**
+**Source Code:**
 [Kildekode på GitHub](https://github.com/dit-github-canhforresten/trending-movies)
 
 #### Booking system (Not done yet)
